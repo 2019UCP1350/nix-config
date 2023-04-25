@@ -13,6 +13,7 @@
   home.packages = with pkgs; [
     nix-output-monitor # https://github.com/maralorn/nix-output-monitor
     nix-info
+    kitty
   ];
 
   # Programs natively supported by home-manager.
